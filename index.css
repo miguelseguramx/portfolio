@@ -85,7 +85,7 @@ header {
   display: inline-block;
   color: var(--mainwhite);
   background: var(--mainblack);
-  padding: 0.75rem 0;
+  padding: 0.6rem 0;
   width: 100%;
   text-align: center;
   border-radius: 1rem;
