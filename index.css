@@ -301,6 +301,17 @@ header {
   text-align: center;
 }
 
+.project-details-list {
+  list-style: initial;
+  padding-left: 24px;
+}
+.project-details-list li {
+  margin: 16px 0;
+}
+.project-details-list li:last-of-type {
+  margin-bottom: 32px;
+}
+
 @media screen and (min-width: 768px) {
   h1{
     font: var(--heading-1);
